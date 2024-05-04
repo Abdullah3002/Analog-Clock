@@ -103,7 +103,7 @@ body {
     height: 200px;
     background-color: #404b69;
     position: absolute;
-    left: 192px;
+    left: 202px;
 }
 
 .minute-hand .arrow{
@@ -112,7 +112,7 @@ body {
     color: #404b69;
     transform: rotate(180deg);
     position: absolute;
-    left: 184px;
+    left: 194px;
     top: -7px;
 }
 
